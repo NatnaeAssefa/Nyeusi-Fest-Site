@@ -30,10 +30,10 @@ To get a local copy up and running follow these simple steps.
 ### Setup
 
 - With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Nyeusi-Fest-Site/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- [Download the ZIP file from this location](https://github.com/NatnaeAssefa/Nyeusi-Fest-Site/archive/refs/heads/master.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
+git clone https://github.com/NatnaeAssefa/Nyeusi-Fest-Site.git
 ```
 
 - Once the files are on your machine, open the **Nyeusi-Fest-Site** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -48,11 +48,11 @@ git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Natnael Assefa**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@NatnaelAssefa](https://github.com/NatnaeAssefa)
+- X formerly (Twitter): [@NatnaelAssefa](https://x.com/Natnael_Assefa7?t=uq9rQxhSlyZlaVgA0UDs6w&s=35)
+- LinkedIn: [Natnael Assefa](https://linkedin.com/in/natnael-assefa-6a98081ab)
 
 ## 🤝 Contributing
 
@@ -61,10 +61,3 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Original design idea by [Cindy Shin](https://www.behance.net/adagio07) in Behance.
-- Background photo by [Nick Kane](https://unsplash.com/@nickkane) on [Unsplash](https://unsplash.com/photos/NMx_9N2QC5o).
-- Lagos background Photo by [Samantha Gades](https://unsplash.com/@srosinger3997?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/fIHozNWfcvs).
-- Johannesburg background Photo by [Kate Trysh](https://unsplash.com/@katetrysh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/E5xQlNnngO0).
